@@ -38,8 +38,8 @@ class NavBar extends React.Component {
                         src={logo}
                         alt="logo"
                         className="logo"
-                        width={60}
-                        height={60}
+                        width={120}
+                        height={120}
                     />
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
